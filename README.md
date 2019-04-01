@@ -31,7 +31,7 @@ Tested on Ubuntu 16.04 LTS.
 * Clone the application:
 
   ```sh
-  git clone https://github.com/matthewclarkmay/geoip-attack-map.git
+  git clone https://mohammad95younis.github.io/geoip-attack-map/
   ```
 
 * Install system dependencies:
